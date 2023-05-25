@@ -1,0 +1,17 @@
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.exe
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.deps.json
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.runtimeconfig.json
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.dll
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\bin\Debug\net6.0-windows\Not hesaplama.pdb
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.csproj.AssemblyReference.cache
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not_hesaplama.Form1.resources
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.csproj.GenerateResource.cache
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.AssemblyInfoInputs.cache
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.AssemblyInfo.cs
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.dll
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\refint\Not hesaplama.dll
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.pdb
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\Not hesaplama.genruntimeconfig.cache
+C:\Users\AKGUL\Desktop\Not hesaplama\Not hesaplama\obj\Debug\net6.0-windows\ref\Not hesaplama.dll
